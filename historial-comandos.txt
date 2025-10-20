@@ -1,0 +1,130 @@
+    1  git init
+    2  git clone https://github.com/GuillenME/Proyecto.git
+    3  git clone https://github.com/GuillenME/Proyecto.git
+    4  git init
+    5  git clone https://github.com/GuillenME/Proyecto.git
+    6  git init
+    7  git clone https://github.com/GuillenME/Proyecto.git
+    8  git init
+    9  git clone https://github.com/GuillenME/Proyecto.git
+   10  git init
+   11  git remote -v
+   12  git checkout -b froilan
+   13  git add index.html
+   14  git status
+   15  git commit -m "index"
+   16  git push -u origen froilan
+   17  git push origen froilan
+   18  git push origin froilan
+   19  git init
+   20  git clone [200~https://github.com/GuillenME/Proyecto.git~
+   21  git init
+   22  git clone https://github.com/GuillenME/Proyecto.git
+   23  git clone https://github.com/GuillenME/Proyecto.git
+   24  git pull
+   25  [200~git pull origin <branch>
+   26  git pull origin mariana
+   27  git checkout main
+   28  git pull origin mariana
+   29  git pull origin rubén
+   30  git pull origin ruben
+   31  git pull origin ruben
+   32  git init
+   33  git remote -v
+   34  git status
+   35  git pull origin mariana
+   36  git init
+   37  git init
+   38  git init
+   39  git clone https://github.com/GuillenME/Proyecto.git
+   40  git pull origin mariana
+   41  git pull origin ruben
+   42  git pull origin ruben
+   43  git pull origin mariana
+   44  git clone https://github.com/GuillenME/Proyecto.git
+   45  git pull origin ruben
+   46  git pull origin ruben
+   47  git checkout froilan
+   48  git branch
+   49  git branch -a
+   50  git switch froilan
+   51  git fetch
+   52  git checkout froilan
+   53  git push origin froilan
+   54  git status
+   55  git pull origin mariana
+   56  git pull origin mariana
+   57  git pull mariana
+   58  git pull origin mariana
+   59  git pull origin mariana
+   60  git checkout froilan
+   61  git add .
+   62  git status
+   63  git add .
+   64  git commit -m "Cambios froy"
+   65  git push origin froilan
+   66  git checkout -b froilan
+   67  git push origin froilan
+   68  git pull origin froilan
+   69  git push origin froilan
+   70  git checkout main
+   71  git status
+   72  git add .
+   73  git push origin froilán
+   74  git pull origin Froilán
+   75  git push origin Froilán
+   76  git checkout main
+   77  git add .
+   78  git push origin Froilán
+   79  git add .
+   80  git push origin froilan
+   81  git push origin Froilán
+   82  git branch
+   83  git fetch
+   84  git branch -r
+   85  git branch -m froilan
+   86  git push -u origin froilan
+   87  git pull origin froilan
+   88  git stash
+   89  git pull origin froilan
+   90  git stash apply
+   91  git add .
+   92  git commit -m "Guardando otra vez froy"
+   93  git pull origin froilan
+   94  git checkout -- index.html
+   95  git pull origin froilan
+   96  git add .
+   97  git add .
+   98  git status
+   99  git checkout froilan
+  100  git add .
+  101  git commit -m "modifique"
+  102  git push origin froilan
+  103  git clone https://github.com/GuillenME/Proyecto.git
+  104  git init
+  105  git clone https://github.com/GuillenME/Proyecto.git
+  106  git init
+  107  git clone https://github.com/GuillenME/Proyecto.git
+  108  git clone https://github.com/alexwalk01/Tarea_will.git
+  109  git init 
+  110  git clone https://github.com/alexwalk01/Ocotaxi.git
+  111  git init 
+  112  git clone https://github.com/phpmyadmin/phpmyadmin.git
+  113  git clone https://github.com/latecnologiaavanza/mi_app_web_gitflow.git
+  114  git clone https://github.com/GuillenME/EventosChiapass.git
+  115  git clone https://github.com/froynm/Calculadora.git
+  116  git clone https://github.com/froynm/Calculadora.git
+  117  git clone https://gitlab.com/devteam5174424/proyecto-dwi.git
+  118  git clone https://github.com/qdsfdhvh/compose-anime-tv.git
+  119  git clone https://github.com/qdsfdhvh/compose-anime-tv.git
+  120  git clone https://github.com/qdsfdhvh/compose-anime-tv.git
+  121  git clone https://github.com/qdsfdhvh/compose-anime-tv.git
+  122  git clone https://github.com/GuillenME/nawi-2.git
+  123  git clone https://github.com/GuillenME/logindiscord.git
+  124  git clone https://github.com/froynm/practica-ramas-froilan.git
+  125  git clone https://github.com/froynm/practica-ramas-Froilan-.git
+  126  git clone https://github.com/GuillenME/logindiscord.git
+  127  git clone https://github.com/froynm/practica-ramas-protegidas-froy.git
+  128  git clone https://github.com/GuillenME/colaborativo-ramas-protegidas.git
+  129  historial-comandos.txt
+  130  history > historial-comandos.txt
